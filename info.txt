@@ -1,0 +1,2 @@
+1. in index.js we have learned that how to print "Hello World!" in javascript.
+ 
