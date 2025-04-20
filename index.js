@@ -46,4 +46,6 @@
 
 // console.log(PI);
 
+// const a;
 
+// console.log(a) ======= This will give Error ============
